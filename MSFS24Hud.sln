@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{0B15E800-F0B8-43A0-AA96-EF2178CA3DEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HudTelemetry", "src\HudTelemetry\HudTelemetry.csproj", "{D6C9E26B-B5D1-4145-A409-A27521C45675}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HudTelemetry.Tests", "src\HudTelemetry.Tests\HudTelemetry.Tests.csproj", "{1DCCA1C0-64D2-4599-885F-A68413090A39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6C9E26B-B5D1-4145-A409-A27521C45675}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6C9E26B-B5D1-4145-A409-A27521C45675}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6C9E26B-B5D1-4145-A409-A27521C45675}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6C9E26B-B5D1-4145-A409-A27521C45675}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DCCA1C0-64D2-4599-885F-A68413090A39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DCCA1C0-64D2-4599-885F-A68413090A39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DCCA1C0-64D2-4599-885F-A68413090A39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DCCA1C0-64D2-4599-885F-A68413090A39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D6C9E26B-B5D1-4145-A409-A27521C45675} = {0B15E800-F0B8-43A0-AA96-EF2178CA3DEF}
+		{1DCCA1C0-64D2-4599-885F-A68413090A39} = {0B15E800-F0B8-43A0-AA96-EF2178CA3DEF}
+	EndGlobalSection
+EndGlobal
