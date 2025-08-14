@@ -1,0 +1,1 @@
+Wir brauchen eine UI, die die Werte, Flughöhe und Geschwindigkeiten in metrischen Wereten zeigt. Sie soll nicht viel Platz verdecken, aber alle Versionen beider Werte in gängigen Metrischen werten anzeigen. Es soll direkt in MSFS als Community plugin laufen.
